@@ -1,2 +1,2 @@
 # hello_world
-I'm new
+Semi-new
